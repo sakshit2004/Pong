@@ -14,12 +14,11 @@ A classic Pong game implemented in Java using the Swing framework.
 
 ## Overview
 
-This project is a simple implementation of the classic Pong game using Java and Swing. It features a two-player mode where one player controls the paddle using the mouse, and the other player uses keyboard controls.
+This project is a simple implementation of the classic Pong game using Java and Swing.
 
 ## Features
 
 - Ball movement, paddle control, and collision detection.
-- Two-player mode with mouse and keyboard controls.
 - Adaptive and predictive movement for the computer-controlled opponent.
 - Scoring logic and speed increment after a certain number of bounces.
 
